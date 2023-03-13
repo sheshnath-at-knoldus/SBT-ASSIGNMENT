@@ -3,7 +3,7 @@ ThisBuild / scalaVersion := "2.13.10"
 lazy val root = (project in file("."))
   .settings(
     name := "SBT-Assignment"
-  ).aggregate(core,util)sbt scalastyleGenerateConfig
+  ).aggregate(core,util)
 lazy val core = (project in file("core"))
   .settings(
     libraryDependencies += "org.scalatest" %% "scalatest" % "3.2.10" % Test
