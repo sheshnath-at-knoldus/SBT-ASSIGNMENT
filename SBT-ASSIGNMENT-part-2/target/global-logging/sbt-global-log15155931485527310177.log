@@ -1,0 +1,17 @@
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(publishLocal, Some(9f48fbf3-e73c-48b3-a9d4-09745c356922), Some(CommandSource(console0)))[0m
+[0m[[0m[0mdebug[0m] [0m[0mEvaluating tasks: publishLocal[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning task... Cancel: Signal, check cycles: false, forcegc: true[0m
+[0m[[0m[0minfo[0m] [0m[0mWrote /home/knoldus/SBT-ASSIGNMENT/target/scala-2.13/sbt-assignment_2.13-0.1.0-SNAPSHOT.pom[0m
+[0m[[0m[0minfo[0m] [0m[0mMain Scala API documentation to /home/knoldus/SBT-ASSIGNMENT/target/scala-2.13/api...[0m
+[0m[[0m[0minfo[0m] [0m[0mcompiling 1 Scala source to /home/knoldus/SBT-ASSIGNMENT/target/scala-2.13/classes ...[0m
+[0m[[0m[0minfo[0m] [0m[0mMain Scala API documentation successful.[0m
+[0m[[0m[0minfo[0m] [0m[0m:: delivering :: sbt-assignment#sbt-assignment_2.13;0.1.0-SNAPSHOT :: 0.1.0-SNAPSHOT :: integration :: Mon Mar 13 21:39:37 IST 2023[0m
+[0m[[0m[0minfo[0m] [0m[0m	delivering ivy file to /home/knoldus/SBT-ASSIGNMENT/target/scala-2.13/ivy-0.1.0-SNAPSHOT.xml[0m
+[0m[[0m[0minfo[0m] [0m[0m	published sbt-assignment_2.13 to /home/knoldus/.ivy2/local/sbt-assignment/sbt-assignment_2.13/0.1.0-SNAPSHOT/poms/sbt-assignment_2.13.pom[0m
+[0m[[0m[0minfo[0m] [0m[0m	published sbt-assignment_2.13 to /home/knoldus/.ivy2/local/sbt-assignment/sbt-assignment_2.13/0.1.0-SNAPSHOT/jars/sbt-assignment_2.13.jar[0m
+[0m[[0m[0minfo[0m] [0m[0m	published sbt-assignment_2.13 to /home/knoldus/.ivy2/local/sbt-assignment/sbt-assignment_2.13/0.1.0-SNAPSHOT/srcs/sbt-assignment_2.13-sources.jar[0m
+[0m[[0m[0minfo[0m] [0m[0m	published sbt-assignment_2.13 to /home/knoldus/.ivy2/local/sbt-assignment/sbt-assignment_2.13/0.1.0-SNAPSHOT/docs/sbt-assignment_2.13-javadoc.jar[0m
+[0m[[0m[0minfo[0m] [0m[0m	published ivy to /home/knoldus/.ivy2/local/sbt-assignment/sbt-assignment_2.13/0.1.0-SNAPSHOT/ivys/ivy.xml[0m
+[0m[[0m[32msuccess[0m] [0m[0mTotal time: 2 s, completed 13-Mar-2023, 9:39:37 PM[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(shell, None, None)[0m
+[0m[[0m[0minfo[0m] [0m[0mshutting down sbt server[0m
