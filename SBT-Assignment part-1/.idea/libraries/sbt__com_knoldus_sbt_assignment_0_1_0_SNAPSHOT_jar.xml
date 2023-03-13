@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="sbt: com.knoldus:sbt-assignment:0.1.0-SNAPSHOT:jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../.ivy2/local/com.knoldus/sbt-assignment/0.1.0-SNAPSHOT/jars/sbt-assignment_2.13.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../.ivy2/local/com.knoldus/sbt-assignment/0.1.0-SNAPSHOT/docs/sbt-assignment_2.13-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../.ivy2/local/com.knoldus/sbt-assignment/0.1.0-SNAPSHOT/srcs/sbt-assignment_2.13-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
